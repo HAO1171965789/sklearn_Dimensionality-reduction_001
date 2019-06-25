@@ -1,1 +1,1 @@
-本案例数据基于R语言 ISLR 包中的Auto数据集，数据集中共有392个样本， 8个特征，根据每种汽车的参数，利用聚类算法来进行聚类，识别出相似的汽车。
+The case data is based on the Auto dataset in the R language ISLR package. There are 392 samples and 8 features in the dataset. Based on the parameters of each car, clustering algorithm is used to cluster and identify similar cars.
