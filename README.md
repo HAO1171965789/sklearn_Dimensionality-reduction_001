@@ -1,1 +1,1 @@
-The case data is based on the Auto dataset in the R language ISLR package. There are 392 samples and 8 features in the dataset. Based on the parameters of each car, clustering algorithm is used to cluster and identify similar cars.
+This example will take the digits dataset in scikit-learn as an example, use different dimensionality reduction methods to reduce the dimension of the dataset, and compare the effects of various dimensionality reduction methods.
